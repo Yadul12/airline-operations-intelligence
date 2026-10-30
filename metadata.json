@@ -1,0 +1,6 @@
+{
+  "name": "Airline Operations Intelligence",
+  "description": "Predictive performance analytics, machine learning flight delay risk classification, SHAP explainability, and operational decision support for airline Network Operations Control (NOC).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
